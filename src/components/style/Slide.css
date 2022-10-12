@@ -1,0 +1,43 @@
+.slider-container {
+    overflow-x: hidden;
+    margin: 0 auto;
+    background-color: black;
+    height: 80%;
+    border-radius: 40px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+}
+
+.slider-title {
+    color: white;
+    width: 40%;
+    text-align: center;
+    font-size: 30px;
+    padding: 0 100px 0 100px;
+    padding-top: 20px;
+}
+
+
+.slider {
+    display: flex;
+    cursor: grab;
+}
+
+.item {
+    height: 50rem;
+    max-width: 30rem;
+    padding: 2rem;
+}
+
+.item img {
+    height: 100%;
+    width: 400px;
+    pointer-events: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.img-title {
+    color: white;
+}
+
