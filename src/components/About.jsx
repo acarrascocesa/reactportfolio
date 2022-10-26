@@ -12,7 +12,7 @@ const About = () => {
                 </p>
             </div>
             <div className='about-img'>
-                <img src="./src/assets/profile.jfif" alt="" />
+                <img src="./src/assets/me.png" alt="" />
             </div>
 
         </div>
