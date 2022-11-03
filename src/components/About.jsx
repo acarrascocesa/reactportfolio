@@ -10,6 +10,7 @@ const About = () => {
                     Actualmente soy estudiante del Bootcamp "Fullstack Developer" de Academlo donde he aprendido HTML, CSS, JAVASCRIPT y REACT.
                     Me interesa seguir ampliando mis conocimientos en el area de la programacion y aplicar lo que ya he aprendido en una empresa que me de la oportunidad!! 
                 </p>
+               
             </div>
             <div className='about-img'>
                 <img  src="./src/assets/me.png" alt="" />
