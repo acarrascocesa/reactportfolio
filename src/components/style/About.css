@@ -28,12 +28,13 @@
     height: 400px;
     display: flex;
     align-self: center;
+    position: relative;
 }
 
 img {
     width: 100%;
     max-width: 450px;
-    border: solid lightgray 1px;
+    
     border-radius: 40px;
 }
 
